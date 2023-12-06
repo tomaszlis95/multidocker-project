@@ -22,3 +22,4 @@ after_success:
   - docker push tomaszlis95/multi-nginx
   - docker push tomaszlis95/multi-server
   - docker push tomaszlis95/multi-worker
+  # trigger build commit
